@@ -1,2 +1,11 @@
 Console.WriteLine("Zaryab Kashif");
 Console.WriteLine("24-ST-002");
+Console.WriteLine("FSC Subjects");
+Console.WriteLine("Islamiyat");
+Console.WriteLine("Physics");
+Console.WriteLine("Biology ");
+Console.WriteLine("chemistry");
+Console.WriteLine("English");
+Console.WriteLine("Urdu");
+Console.WriteLine("Pak Study");
+Console.WriteLine("Quran Translation");
